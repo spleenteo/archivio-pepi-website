@@ -1,5 +1,6 @@
-# Casadei Landings
-A Next.js + Tailwind + Netlify project to create beautiful landing pages without code required.
+# Archivio Pepi Website
+A Next.js + Tailwind + Netlify project to create florentine Pepi's family website.
+
 
 ## Getting Started
 
